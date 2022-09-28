@@ -1,0 +1,107 @@
+@import "variables";
+
+body {
+    background-color: #e1e6de;
+}
+
+.page {
+    color: $colorprincipal;
+
+    &:hover {
+        background-color: white;
+        color: black;
+    }
+}
+
+.btn-primary {
+    background-color: $colorprincipal;
+    border: $colorprincipal solid 1px;
+
+    &:hover {
+        background-color: white;
+        color: black;
+    }
+}
+
+.btn {
+    background-color: $colorprincipal;
+    color: white;
+    border: $colorprincipal;
+
+    &:hover {
+        background-color: white;
+        color: black;
+    }
+}
+
+.card {
+    height: 100%;
+}
+
+.espacio {
+    margin-top: 20px;
+}
+
+.text-bg-dar {
+    background: $colorprincipal;
+}
+
+.col-md-12 {
+    margin-bottom: 1%;
+    margin-left: 8%;
+}
+
+.contactanos {
+    margin-left: 8%;
+}
+
+strong {
+    display: block;
+    margin-bottom: 5%;
+}
+
+.imgCarousel {
+    height: 500px;
+    object-fit: cover;
+    border-radius: 30px
+}
+
+.imgcard {
+    height: 300px;
+    object-fit: cover;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    padding: 15px;
+}
+
+@media (min-width:780px) {
+    div .cabina {
+        margin: 0 0 0 35%;
+    }
+}
+
+.form-group {
+    margin-top: -10px;
+}
+
+.form-group1 {
+    margin-top: 15px;
+}
+
+.activo {
+    background-color: #479A03;
+    color: white;
+    border-radius: 6.5px;
+}
+
+li {
+    margin: 3px;
+}

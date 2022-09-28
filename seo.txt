@@ -1,0 +1,8 @@
+- Se agrego descripcion y keywords.
+- Mejora los titulos de la pagina para que sean unicos y mas entendibles.
+- Mejoral el h1 que tenia cada pagina.
+- Se agregan imagenes de buena calidad.
+- Se mejoran los alts para que sean mas entendibles
+- Se agregan imagenes de muy buena calidad y que correspondan a el tema que se necesita.
+- Se utilizan maximo 3 colores bases para mejor optimizacion.
+- Se revisan loS textos para que no hallan errores de ortografia.
